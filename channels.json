@@ -1,14 +1,14 @@
 [
   {
     "channel": "pc",
-    "build_stamp": "2026-10-15T23:40:41.851Z",
-    "download_url": "https://github.com/teydra/telecoding-releases/releases/download/pc/TeleCoding-PC-20261015-234041.zip",
+    "build_stamp": "2026-10-16T08:41:36.779Z",
+    "download_url": "https://github.com/teydra/telecoding-releases/releases/download/pc/TeleCoding-PC-20261016-084136.zip",
     "version_label": null
   },
   {
     "channel": "android",
-    "build_stamp": "2026-10-15T23:24:14.933Z",
-    "download_url": "https://github.com/teydra/telecoding-releases/releases/download/build-20261015-2324/TeleCoding-build-20261015-2324.apk",
+    "build_stamp": "2026-10-16T09:04:12.970Z",
+    "download_url": "https://github.com/teydra/telecoding-releases/releases/download/build-20261016-0904/TeleCoding-build-20261016-0904.apk",
     "version_label": null
   }
 ]
